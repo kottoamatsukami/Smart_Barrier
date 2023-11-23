@@ -44,7 +44,7 @@ def main(page: ft.Page):
         app_routes = app_routes
     )
 
-    page.go('/')
+    page.go('/reg')
 
 
 ft.app(
